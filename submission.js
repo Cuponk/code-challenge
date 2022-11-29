@@ -108,5 +108,3 @@ const scoreScrabble = function(str) {
   }
   return score;
 };
-
-console.log(scoreScrabble('hello'));
